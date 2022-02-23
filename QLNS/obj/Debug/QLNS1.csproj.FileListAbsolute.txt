@@ -1,0 +1,13 @@
+C:\NguyenVanChieu\QLNS\bin\Debug\QLNS.exe.config
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.exe
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.pdb
+C:\NguyenVanChieu\QLNS\bin\Debug\QLNS.exe
+C:\NguyenVanChieu\QLNS\bin\Debug\QLNS.pdb
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS1.csprojResolveAssemblyReference.cache
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.FrmDangNhap.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.FrmDangky.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.FrmDangKy2.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.FrmQuanLy.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.FrmSach.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\NguyenVanChieu\QLNS\obj\Debug\QLNS1.csproj.GenerateResource.Cache
